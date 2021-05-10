@@ -12,9 +12,21 @@ public class TypeConversion {
 
         // Pedir un valor
         var consola = new Scanner(System.in);
-        System.out.println("Proporciona tu edad: ");
-        edad = Integer.parseInt(consola.nextLine());
-        System.out.println("edad = " + edad);
+//        System.out.println("Proporciona tu edad: ");
+//        edad = Integer.parseInt(consola.nextLine());
+//        System.out.println("edad = " + edad);
+
+        // Convertir tipo int a String
+        var edadTexto = String.valueOf(10);
+        System.out.println("edadTexto = " + edadTexto);
+
+        // Convertir String a char
+        var caracter = "hola".charAt(1); // En Java se cuenta desde 0.
+        System.out.println("caracter = " + caracter);
+
+        System.out.println("Proporciona un caracter: ");
+        caracter = consola.nextLine().charAt(0);
+        System.out.println("caracter = " + caracter);
 
     }
 }
