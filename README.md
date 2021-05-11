@@ -1,1 +1,1 @@
-These are my Java practices. Im doing an online course on Udemy and here i will be droping my excersises. Im from Argentina, so most of the variables names and comments are in Spanish, but the code itself is readable for anyone to follow along. Im currently using JetBrains' IntelliJ IDEA.
+These are my Java practices. Im doing an online course on Udemy and here i will be droping my excercises. Im from Argentina, so most of the variables names and comments are in Spanish, but the code itself is readable for anyone to follow along. Im currently using JetBrains' IntelliJ IDEA.
