@@ -11,8 +11,8 @@ public class Persona {
     //Atributos de la clase
     // Se recomienda definirlos al inicio
 
-    String nombre;
-    String apellido;
+    public String nombre; // No es buena practica, pero es momentaneo para modificarlo desde otro pkg
+    public String apellido;
 
     // Metodos de la clase
 
